@@ -1,0 +1,28 @@
+# Core
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+arviz
+
+# Time series & stats
+statsmodels
+
+# Bayesian modeling
+pymc
+
+# Jupyter
+jupyter
+notebook
+ipykernel
+
+# Backend (Dashboard)
+flask
+flask-cors
+
+# Utilities
+python-dateutil
+tqdm
