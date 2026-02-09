@@ -1,2 +1,9 @@
-# brent-oil-change-point-analysis
-Bayesian change point analysis of Brent oil prices to detect structural breaks and assess the impact of major geopolitical and economic events using PyMC, with interactive dashboards for insight exploration.
+## Task 1 Deliverables
+
+- Workflow documentation: docs/task1_workflow.md
+- Event dataset: data/external/events.csv
+- Event documentation: docs/events_description.md
+- Assumptions & limitations: docs/assumptions.md
+- Initial EDA: notebooks/01_eda.ipynb
+
+
